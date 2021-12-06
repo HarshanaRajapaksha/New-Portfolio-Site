@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "/static/js/main.db9bb1a5.chunk.js",
+    "main.js.map": "/static/js/main.db9bb1a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
+    "static/css/2.3cde64c8.chunk.css": "/static/css/2.3cde64c8.chunk.css",
+    "static/js/2.e1d289d3.chunk.js": "/static/js/2.e1d289d3.chunk.js",
+    "static/js/2.e1d289d3.chunk.js.map": "/static/js/2.e1d289d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3cde64c8.chunk.css.map": "/static/css/2.3cde64c8.chunk.css.map",
+    "static/js/2.e1d289d3.chunk.js.LICENSE.txt": "/static/js/2.e1d289d3.chunk.js.LICENSE.txt",
+    "static/media/HarshanaCV.fee2b3d2.pdf": "/static/media/HarshanaCV.fee2b3d2.pdf",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-imgi.c8787bc8.png": "/static/media/about-page-imgi.c8787bc8.png",
+    "static/media/about-sec-imgi.663e5c32.png": "/static/media/about-sec-imgi.663e5c32.png",
+    "static/media/ansathu.3a5cb72e.jpg": "/static/media/ansathu.3a5cb72e.jpg",
+    "static/media/cakeglory.5fe9261c.jpg": "/static/media/cakeglory.5fe9261c.jpg",
+    "static/media/cavinimgi.f2050bd8.jpg": "/static/media/cavinimgi.f2050bd8.jpg",
+    "static/media/delight8.b4560e99.jpg": "/static/media/delight8.b4560e99.jpg",
+    "static/media/ecomAppUi.37cd7e72.jpg": "/static/media/ecomAppUi.37cd7e72.jpg",
+    "static/media/halloween.fcbb9fbf.jpg": "/static/media/halloween.fcbb9fbf.jpg",
+    "static/media/heroi.63669d4e.png": "/static/media/heroi.63669d4e.png",
+    "static/media/logo1.ff82ab7e.png": "/static/media/logo1.ff82ab7e.png",
+    "static/media/logo2.971e2547.png": "/static/media/logo2.971e2547.png",
+    "static/media/mapi.f0d7eb7d.png": "/static/media/mapi.f0d7eb7d.png",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/projectImgi.56f5833e.png": "/static/media/projectImgi.56f5833e.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/travelnet.5405c14c.jpg": "/static/media/travelnet.5405c14c.jpg",
+    "static/media/utrackeri.5acc736a.jpg": "/static/media/utrackeri.5acc736a.jpg",
+    "static/media/vstoreapp.f20b8b2c.jpg": "/static/media/vstoreapp.f20b8b2c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb7fa0a0.js",
+    "static/css/2.3cde64c8.chunk.css",
+    "static/js/2.e1d289d3.chunk.js",
+    "static/js/main.db9bb1a5.chunk.js"
+  ]
+}
