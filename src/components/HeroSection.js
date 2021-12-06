@@ -159,7 +159,7 @@ export default function HeroSection() {
       <div className="hero">
         <div className="container">
           <h1 className="hero__heading">
-            <span className="Still__develop">Still Developping</span>
+            <span className="Still__develop" />
             <span>Hello This is</span>
             <span className="hero__name">Harshana Rajapaksha</span>
           </h1>
