@@ -28,7 +28,10 @@ export default function ServicesSection() {
   return (
     <ServicesItemStyles>
       <div className="container">
-        <SectionTitle heading="Brands" subheading="What I  running brands" />
+        <SectionTitle
+          heading="Brands"
+          subheading="The brands I currently run"
+        />
 
         <div className="brands__allItems">
           <BrandsSectionItem
