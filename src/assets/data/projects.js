@@ -6,6 +6,7 @@ import ansathu from '../images/ansathu.jpg';
 import cakeglory from '../images/cakeglory.jpg';
 import halloween from '../images/halloween.jpg';
 import ecomAppUi from '../images/ecomAppUi.jpg';
+import mashrooms from '../images/mashrooms.jpg';
 
 const projects = [
   {
@@ -51,6 +52,13 @@ const projects = [
     desc: 'This is a project in mobile application development module. Designed this UIs using Adobe XD.',
     img: ecomAppUi,
     link: 'https://www.behance.net/gallery/131007463/UI-Designs-For-E-Commerce-App',
+  },
+  {
+    id: uuidv4(),
+    name: 'Label Design',
+    desc: 'I designed this label for a packet of mashrooms. Client wanted a B&W Design.',
+    img: mashrooms,
+    link: '',
   },
 
   {
