@@ -7,6 +7,7 @@ import cakeglory from '../images/cakeglory.jpg';
 import halloween from '../images/halloween.jpg';
 import ecomAppUi from '../images/ecomAppUi.jpg';
 import mashrooms from '../images/mashrooms.jpg';
+import commerce from '../images/commerce.jpg';
 
 const projects = [
   {
@@ -59,6 +60,13 @@ const projects = [
     desc: 'I designed this label for a packet of mashrooms. Client wanted a B&W Design.',
     img: mashrooms,
     link: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Minimal Poster Design',
+    desc: 'This is a minimal facebook poster. I used Photoshop for designed this poster.',
+    img: commerce,
+    link: 'https://www.behance.net/gallery/132881621/Minimal-Poster-Design?',
   },
 
   {
