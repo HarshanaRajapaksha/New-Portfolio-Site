@@ -8,8 +8,16 @@ import halloween from '../images/halloween.jpg';
 import ecomAppUi from '../images/ecomAppUi.jpg';
 import mashrooms from '../images/mashrooms.jpg';
 import commerce from '../images/commerce.jpg';
+import lioclubvid from '../images/lioclubvid.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'A Short Video Creation"',
+    desc: 'This short video create for Lio Club of University of Sri Jayawardhanapura. I created this using the script and audio that I was given. A small project I did.',
+    img: lioclubvid,
+    link: 'https://www.facebook.com/leoclub.usjp/videos/438043757875659',
+  },
   {
     id: uuidv4(),
     name: 'Logo Design "Cake Glory"',
