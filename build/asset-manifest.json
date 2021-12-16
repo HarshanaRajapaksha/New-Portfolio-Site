@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.fdd6b43e.chunk.js",
-    "main.js.map": "/static/js/main.fdd6b43e.chunk.js.map",
+    "main.js": "/static/js/main.00c7fb8e.chunk.js",
+    "main.js.map": "/static/js/main.00c7fb8e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.3cde64c8.chunk.css": "/static/css/2.3cde64c8.chunk.css",
@@ -19,6 +19,7 @@
     "static/media/ansathu.3a5cb72e.jpg": "/static/media/ansathu.3a5cb72e.jpg",
     "static/media/cakeglory.5fe9261c.jpg": "/static/media/cakeglory.5fe9261c.jpg",
     "static/media/cavinimgi.f2050bd8.jpg": "/static/media/cavinimgi.f2050bd8.jpg",
+    "static/media/clothingtag.0f12cdb6.jpg": "/static/media/clothingtag.0f12cdb6.jpg",
     "static/media/commerce.52dd4695.jpg": "/static/media/commerce.52dd4695.jpg",
     "static/media/delight8.b4560e99.jpg": "/static/media/delight8.b4560e99.jpg",
     "static/media/ecomAppUi.37cd7e72.jpg": "/static/media/ecomAppUi.37cd7e72.jpg",
@@ -28,7 +29,7 @@
     "static/media/logo1.ff82ab7e.png": "/static/media/logo1.ff82ab7e.png",
     "static/media/logo2.971e2547.png": "/static/media/logo2.971e2547.png",
     "static/media/mapi.f0d7eb7d.png": "/static/media/mapi.f0d7eb7d.png",
-    "static/media/mashrooms.4d0c6180.jpg": "/static/media/mashrooms.4d0c6180.jpg",
+    "static/media/mashrooms.8bb23bf3.jpg": "/static/media/mashrooms.8bb23bf3.jpg",
     "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
     "static/media/projectImgi.56f5833e.png": "/static/media/projectImgi.56f5833e.png",
     "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
@@ -41,6 +42,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.3cde64c8.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.fdd6b43e.chunk.js"
+    "static/js/main.00c7fb8e.chunk.js"
   ]
 }

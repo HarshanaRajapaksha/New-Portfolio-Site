@@ -75,7 +75,7 @@ const projects = [
     name: 'Label Design',
     desc: 'I designed this label for a packet of mashrooms. Client wanted a B&W Design.',
     img: mashrooms,
-    link: '',
+    link: 'https://www.behance.net/gallery/133362635/Label-Design?tracking_source=for_you_feed_user_published',
   },
   {
     id: uuidv4(),
