@@ -9,6 +9,7 @@ import ecomAppUi from '../images/ecomAppUi.jpg';
 import mashrooms from '../images/mashrooms.jpg';
 import commerce from '../images/commerce.jpg';
 import lioclubvid from '../images/lioclubvid.jpg';
+import clothingtag from '../images/clothingtag.jpg';
 
 const projects = [
   {
@@ -17,6 +18,13 @@ const projects = [
     desc: 'This short video create for Leo Club of University of Sri Jayawardenepura. I created this using the script and audio that I was given. A small project I did.',
     img: lioclubvid,
     link: 'https://www.facebook.com/leoclub.usjp/videos/438043757875659',
+  },
+  {
+    id: uuidv4(),
+    name: 'Clothing Tag Design',
+    desc: 'This is a minimal tag that I design for a fashion store. I used only photoshop for create this.',
+    img: clothingtag,
+    link: 'https://www.behance.net/gallery/133360499/Minimal-Clothing-Tag-Design',
   },
   {
     id: uuidv4(),
