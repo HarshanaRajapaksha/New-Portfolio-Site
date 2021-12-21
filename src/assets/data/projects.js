@@ -17,14 +17,14 @@ const projects = [
   {
     id: uuidv4(),
     name: 'University Event Video',
-    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
+    desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
     img: universityEvent,
     link: 'https://www.behance.net/gallery/133596449/Logo-Design-Cake-Mart',
   },
   {
     id: uuidv4(),
     name: 'Logo Design "NAYODARA"',
-    desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
+    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
     img: logoDesignNayodara,
     link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
   },
