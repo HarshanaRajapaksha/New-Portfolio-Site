@@ -16,6 +16,20 @@ import logoDesign from '../images/logoDesign.jpg';
 const projects = [
   {
     id: uuidv4(),
+    name: 'University Event Video',
+    desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
+    img: universityEvent,
+    link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
+  },
+  {
+    id: uuidv4(),
+    name: 'Logo Design NAYODARA',
+    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
+    img: logoDesign,
+    link: 'https://www.behance.net/gallery/133596449/Logo-Design-Cake-Mart',
+  },
+  {
+    id: uuidv4(),
     name: 'A Short Video Creation',
     desc: 'This short video create for Leo Club of University of Sri Jayawardenepura. I created this using the script and audio that I was given. A small project I did.',
     img: lioclubvid,
@@ -50,13 +64,7 @@ const projects = [
     img: ansathu,
     link: 'https://www.facebook.com/R.HarshanaOnline/videos/218257673711056',
   },
-  {
-    id: uuidv4(),
-    name: 'University Event Video',
-    desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
-    img: universityEvent,
-    link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
-  },
+
   {
     id: uuidv4(),
     name: 'Tuition Poster',
@@ -100,13 +108,6 @@ const projects = [
     desc: 'This Introductory video that I made for a Technical YouTube Channel. I used mobile phone & DSLR camera for take this footages and I Edit this video on Premiere Pro.',
     img: CavinImg,
     link: 'https://www.behance.net/gallery/131947273/Mini-Cooper-intro-video%282019%29',
-  },
-  {
-    id: uuidv4(),
-    name: 'Logo Design NAYODARA',
-    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
-    img: logoDesign,
-    link: 'https://www.behance.net/gallery/133596449/Logo-Design-Cake-Mart',
   },
 ];
 
