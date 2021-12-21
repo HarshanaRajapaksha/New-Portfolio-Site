@@ -10,8 +10,16 @@ import mashrooms from '../images/mashrooms.jpg';
 import commerce from '../images/commerce.jpg';
 import lioclubvid from '../images/lioclubvid.jpg';
 import clothingtag from '../images/clothingtag.jpg';
+import universityEvent from '../images/universityEvent.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'University Event Video',
+    desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
+    img: universityEvent,
+    link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
+  },
   {
     id: uuidv4(),
     name: 'A Short Video Creation',

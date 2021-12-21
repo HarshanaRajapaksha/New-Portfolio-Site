@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.00c7fb8e.chunk.js",
-    "main.js.map": "/static/js/main.00c7fb8e.chunk.js.map",
+    "main.js": "/static/js/main.458dc77a.chunk.js",
+    "main.js.map": "/static/js/main.458dc77a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.3cde64c8.chunk.css": "/static/css/2.3cde64c8.chunk.css",
@@ -35,6 +35,7 @@
     "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
     "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
     "static/media/travelnet.5405c14c.jpg": "/static/media/travelnet.5405c14c.jpg",
+    "static/media/universityEvent.6bb9547a.jpg": "/static/media/universityEvent.6bb9547a.jpg",
     "static/media/utrackeri.5acc736a.jpg": "/static/media/utrackeri.5acc736a.jpg",
     "static/media/vstoreapp.f20b8b2c.jpg": "/static/media/vstoreapp.f20b8b2c.jpg"
   },
@@ -42,6 +43,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.3cde64c8.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.00c7fb8e.chunk.js"
+    "static/js/main.458dc77a.chunk.js"
   ]
 }
