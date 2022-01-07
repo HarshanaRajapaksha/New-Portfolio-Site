@@ -11,9 +11,16 @@ import commerce from '../images/commerce.jpg';
 import lioclubvid from '../images/lioclubvid.jpg';
 import clothingtag from '../images/clothingtag.jpg';
 import universityEvent from '../images/universityEvent.jpg';
-import logoDesign from '../images/logoDesign.jpg';
+import ashanonline from '../images/ashanonline.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Official Channel Art Design',
+    desc: 'This is channel art work that I designed for official YouTube channel Ashan Online. Finally I was able to bring this artwork to a professional look.',
+    img: ashanonline,
+    link: 'https://www.behance.net/gallery/134564145/Official-Channel-Art-Design',
+  },
   {
     id: uuidv4(),
     name: 'University Event Video',
@@ -21,19 +28,20 @@ const projects = [
     img: universityEvent,
     link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
   },
-  {
-    id: uuidv4(),
-    name: 'Logo Design NAYODARA',
-    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
-    img: logoDesign,
-    link: 'https://www.behance.net/gallery/133596449/Logo-Design-Cake-Mart',
-  },
+
   {
     id: uuidv4(),
     name: 'A Short Video Creation',
     desc: 'This short video create for Leo Club of University of Sri Jayawardenepura. I created this using the script and audio that I was given. A small project I did.',
     img: lioclubvid,
     link: 'https://www.facebook.com/leoclub.usjp/videos/438043757875659',
+  },
+  {
+    id: uuidv4(),
+    name: 'Logo Design NAYODARA',
+    desc: 'This Logo designed for a cake shop. I used photoshop & Illustrator to design this logo.',
+    img: logoDesign,
+    link: 'https://www.behance.net/gallery/133596449/Logo-Design-Cake-Mart',
   },
   {
     id: uuidv4(),
