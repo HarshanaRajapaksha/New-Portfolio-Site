@@ -11,6 +11,7 @@ import commerce from '../images/commerce.jpg';
 import lioclubvid from '../images/lioclubvid.jpg';
 import clothingtag from '../images/clothingtag.jpg';
 import universityEvent from '../images/universityEvent.jpg';
+import logoDesign from '../images/logoDesign.jpg';
 import ashanonline from '../images/ashanonline.jpg';
 
 const projects = [
