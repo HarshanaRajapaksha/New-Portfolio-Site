@@ -13,6 +13,7 @@ import clothingtag from '../images/clothingtag.jpg';
 import universityEvent from '../images/universityEvent.jpg';
 import logoDesign from '../images/logoDesign.jpg';
 import ashanonline from '../images/ashanonline.jpg';
+import memorylogo from '../images/memorylogo.jpg';
 
 const projects = [
   {
@@ -28,6 +29,13 @@ const projects = [
     desc: 'This video project done for university of sri jayewardenepura. Its include voice, music, Animation parts and sliding parts. I used After Effects for the character introduce part of this video. Others are edit by Premiere Pro.',
     img: universityEvent,
     link: 'https://www.behance.net/gallery/133594987/University-Event-Video',
+  },
+  {
+    id: uuidv4(),
+    name: 'Logo Design - Brand MEMORY',
+    desc: 'This is a Logo that We design for a fashion store. Illustrator and Photoshop are tools that I used design this one.',
+    img: memorylogo,
+    link: 'https://www.behance.net/gallery/134862823/Logo-Design-Fashion-Brand',
   },
 
   {
