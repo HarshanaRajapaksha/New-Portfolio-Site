@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.ebe3353f.chunk.js",
-    "main.js.map": "/static/js/main.ebe3353f.chunk.js.map",
+    "main.js": "/static/js/main.dd4896ed.chunk.js",
+    "main.js.map": "/static/js/main.dd4896ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.3cde64c8.chunk.css": "/static/css/2.3cde64c8.chunk.css",
@@ -19,7 +19,7 @@
     "static/media/ansathu.3a5cb72e.jpg": "/static/media/ansathu.3a5cb72e.jpg",
     "static/media/ashanonline.8d08f593.jpg": "/static/media/ashanonline.8d08f593.jpg",
     "static/media/cakeglory.5fe9261c.jpg": "/static/media/cakeglory.5fe9261c.jpg",
-    "static/media/cavinimgi.f2050bd8.jpg": "/static/media/cavinimgi.f2050bd8.jpg",
+    "static/media/cavinimgi.56eebf29.jpg": "/static/media/cavinimgi.56eebf29.jpg",
     "static/media/clothingtag.0f12cdb6.jpg": "/static/media/clothingtag.0f12cdb6.jpg",
     "static/media/commerce.52dd4695.jpg": "/static/media/commerce.52dd4695.jpg",
     "static/media/delight8.b4560e99.jpg": "/static/media/delight8.b4560e99.jpg",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.3cde64c8.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.ebe3353f.chunk.js"
+    "static/js/main.dd4896ed.chunk.js"
   ]
 }
