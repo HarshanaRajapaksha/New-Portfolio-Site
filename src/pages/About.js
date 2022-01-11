@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import HarshanaCV from '../Docs/HarshanaCV.pdf';
 import PText from '../components/PText';
-import AboutImg from '../assets/images/about-page-imgi.png';
+import AboutImg from '../assets/images/about-page-imgi2.png';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 
