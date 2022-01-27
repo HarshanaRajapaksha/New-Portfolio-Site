@@ -14,8 +14,16 @@ import universityEvent from '../images/universityEvent.jpg';
 import logoDesign from '../images/logoDesign.jpg';
 import ashanonline from '../images/ashanonline.jpg';
 import memorylogo from '../images/memorylogo.jpg';
+import issaraadare from '../images/issaraadare.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Event Intro Video',
+    desc: 'This is a animated Intro video that I create for a get party. I was able to finish this as an epic video. I used after effects & photoshop as the tools.',
+    img: issaraadare,
+    link: 'https://www.facebook.com/100014197622782/videos/259784796227387/',
+  },
   {
     id: uuidv4(),
     name: 'Official Channel Art Design',
