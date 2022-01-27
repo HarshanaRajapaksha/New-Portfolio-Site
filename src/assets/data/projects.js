@@ -20,7 +20,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Event Intro Video',
-    desc: 'This is a animated Intro video that I create for a get party. I was able to finish this as an epic video. I used after effects & photoshop as the tools.',
+    desc: 'This is a animated Intro video that I create for a School Batch Party. I was able to finish this as an epic video. I used after effects & photoshop as the tools.',
     img: issaraadare,
     link: 'https://www.facebook.com/100014197622782/videos/259784796227387/',
   },
