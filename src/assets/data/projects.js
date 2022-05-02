@@ -15,8 +15,17 @@ import logoDesign from '../images/logoDesign.jpg';
 import ashanonline from '../images/ashanonline.jpg';
 import memorylogo from '../images/memorylogo.jpg';
 import issaraadare from '../images/issaraadare.jpg';
+import r1video from '../images/r1video.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'R1 Bike Intro Video',
+    desc: 'For this Intro video, I used mobile phone for take this footages and I Edit this video on Premiere Pro. I created this video for my personal youtube channel.',
+    img: r1video,
+    link: 'https://fb.watch/booJtL1SSM/',
+  },
+
   {
     id: uuidv4(),
     name: 'Event Intro Video',
