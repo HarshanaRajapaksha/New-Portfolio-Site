@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.eebfad19.chunk.js",
-    "main.js.map": "/static/js/main.eebfad19.chunk.js.map",
+    "main.js": "/static/js/main.1259d38a.chunk.js",
+    "main.js.map": "/static/js/main.1259d38a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.853ba1bc.chunk.css": "/static/css/2.853ba1bc.chunk.css",
@@ -11,12 +11,14 @@
     "static/css/2.853ba1bc.chunk.css.map": "/static/css/2.853ba1bc.chunk.css.map",
     "static/js/2.e1d289d3.chunk.js.LICENSE.txt": "/static/js/2.e1d289d3.chunk.js.LICENSE.txt",
     "static/media/HarshanaCV.ba84b078.pdf": "/static/media/HarshanaCV.ba84b078.pdf",
+    "static/media/Manipulation.6b9f73cb.jpg": "/static/media/Manipulation.6b9f73cb.jpg",
     "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Posonanimation.a4a76bce.jpg": "/static/media/Posonanimation.a4a76bce.jpg",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
     "static/media/about-page-imgi2.a04b24ef.png": "/static/media/about-page-imgi2.a04b24ef.png",
     "static/media/about-sec-imgi.663e5c32.png": "/static/media/about-sec-imgi.663e5c32.png",
-    "static/media/ansathu.3a5cb72e.jpg": "/static/media/ansathu.3a5cb72e.jpg",
+    "static/media/ansathu.0b7b3866.jpg": "/static/media/ansathu.0b7b3866.jpg",
     "static/media/ashanonline.8d08f593.jpg": "/static/media/ashanonline.8d08f593.jpg",
     "static/media/cakeglory.5fe9261c.jpg": "/static/media/cakeglory.5fe9261c.jpg",
     "static/media/cavinimgi.56eebf29.jpg": "/static/media/cavinimgi.56eebf29.jpg",
@@ -34,9 +36,12 @@
     "static/media/mapi.f0d7eb7d.png": "/static/media/mapi.f0d7eb7d.png",
     "static/media/mashrooms.8bb23bf3.jpg": "/static/media/mashrooms.8bb23bf3.jpg",
     "static/media/memorylogo.640002fc.jpg": "/static/media/memorylogo.640002fc.jpg",
+    "static/media/motiongraphic.c71e9ec4.jpg": "/static/media/motiongraphic.c71e9ec4.jpg",
     "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
     "static/media/projectImgi.56f5833e.png": "/static/media/projectImgi.56f5833e.png",
+    "static/media/promovideo.3d50264d.jpg": "/static/media/promovideo.3d50264d.jpg",
     "static/media/r1video.989e7c8b.jpg": "/static/media/r1video.989e7c8b.jpg",
+    "static/media/savepower.0d4506d0.jpg": "/static/media/savepower.0d4506d0.jpg",
     "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
     "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
     "static/media/travelnet.5405c14c.jpg": "/static/media/travelnet.5405c14c.jpg",
@@ -48,6 +53,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.853ba1bc.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.eebfad19.chunk.js"
+    "static/js/main.1259d38a.chunk.js"
   ]
 }

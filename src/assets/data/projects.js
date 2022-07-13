@@ -16,8 +16,62 @@ import ashanonline from '../images/ashanonline.jpg';
 import memorylogo from '../images/memorylogo.jpg';
 import issaraadare from '../images/issaraadare.jpg';
 import r1video from '../images/r1video.jpg';
+import savepower from '../images/savepower.jpg';
+import promovideo from '../images/promovideo.jpg';
+import motiongraphic from '../images/motiongraphic.jpg';
+import Posonanimation from '../images/Posonanimation.jpg';
+import Manipulation from '../images/Manipulation.jpg';
+import apepansala from '../images/apepansala.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Poson 2D Animation',
+    desc: 'This is an animation video that I create for Dialog Innovation Foundry. I used After Effects for animating and Illustrator for illustration part.',
+    img: Posonanimation,
+    link: 'https://fb.watch/eePDErS779/',
+  },
+
+  {
+    id: uuidv4(),
+    name: '2D Motion graphic - Company project',
+    desc: 'These are some motion graphics done by Adobe After Effects. I used Photoshop for Designing part.',
+    img: motiongraphic,
+    link: 'https://www.behance.net/gallery/148092973/2D-Motion-graphic-Company-project',
+  },
+
+  {
+    id: uuidv4(),
+    name: '2D Animation - Solar Power',
+    desc: 'Project about promotional video for SLIIT Uni. In this project I worked as the director of photography and Editor.',
+    img: promovideo,
+    link: 'https://www.facebook.com/637871998/videos/pcb.10159743333636999/1329912907537598',
+  },
+
+  {
+    id: uuidv4(),
+    name: '"Ape Pansala(අපේ පන්සල)" Admin Side - UI/UX Design',
+    desc: 'This is a project in User Experience Designing module in Interactive Media the 1st semester of 3rd Year. I used Figma for design the UIs and create the user experience.',
+    img: apepansala,
+    link: 'https://www.behance.net/gallery/148101905/Ape-Pansala%28-%29-Admin-Side-UIUX-Design',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Manipulation - DayToNight',
+    desc: 'This is a photoshop Manipulation that I done using a SLIIT photo. I used Photoshop for edit this one.',
+    img: Manipulation,
+    link: 'https://fb.watch/eeQFwuqnxm/',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Promotional Video - SLIIT',
+    desc: 'Project about an animation to conduct an advertising campaign to promote and encourage public about the importance of using solar power and alternative power sources.',
+    img: savepower,
+    link: 'https://www.facebook.com/Ha.Rajapaksha/videos/2888571004772137',
+  },
+
   {
     id: uuidv4(),
     name: 'R1 Bike Intro Video',
@@ -96,7 +150,7 @@ const projects = [
     name: '2D Animated Video',
     desc: 'An animation that is created by humorously assuming the behind the scenes of a music video. (The original owner of the song and the production board were also appreciative and there was no insult.)',
     img: ansathu,
-    link: 'https://www.facebook.com/R.HarshanaOnline/videos/218257673711056',
+    link: 'https://fb.watch/eeRG8u6DNU/',
   },
 
   {
