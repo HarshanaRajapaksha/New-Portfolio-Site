@@ -42,7 +42,7 @@ const projects = [
 
   {
     id: uuidv4(),
-    name: '2D Animation - Solar Power',
+    name: 'Promotional Video - SLIIT',
     desc: 'Project about promotional video for SLIIT Uni. In this project I worked as the director of photography and Editor.',
     img: promovideo,
     link: 'https://www.facebook.com/637871998/videos/pcb.10159743333636999/1329912907537598',
@@ -66,7 +66,7 @@ const projects = [
 
   {
     id: uuidv4(),
-    name: 'Promotional Video - SLIIT',
+    name: '2D Animation - Solar Power',
     desc: 'Project about an animation to conduct an advertising campaign to promote and encourage public about the importance of using solar power and alternative power sources.',
     img: savepower,
     link: 'https://www.facebook.com/Ha.Rajapaksha/videos/2888571004772137',
