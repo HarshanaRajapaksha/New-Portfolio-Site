@@ -96,7 +96,7 @@ export default function About() {
         <div className="top-section">
           <div className="left">
             <p className="about__subheading">
-              Hi, I am <span>Harshana Rajapaksha.</span>
+              Hi, I am <span>Harshana Rajapaksha</span>
             </p>
             <h2 className="about__heading">A freelance Creative Designer</h2>
             <div className="about__info">
