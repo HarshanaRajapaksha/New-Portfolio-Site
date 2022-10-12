@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import HarshanaCV from '../Docs/HarshanaCV.pdf';
 import PText from '../components/PText';
-import AboutImg from '../assets/images/about-page-imgi2.png';
+import AboutImg from '../assets/images/about-page-imgi4.png';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 
@@ -98,7 +98,9 @@ export default function About() {
             <p className="about__subheading">
               Hi, I am <span>Harshana Rajapaksha</span>
             </p>
-            <h2 className="about__heading">A freelance Creative Designer</h2>
+            <h2 className="about__heading">
+              A freelance Digital Content Creator
+            </h2>
             <div className="about__info">
               <PText>
                 I am from Makandura, Sri Lanka. A place of beauty and nature.

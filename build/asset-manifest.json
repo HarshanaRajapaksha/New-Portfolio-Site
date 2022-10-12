@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.6208b5c1.chunk.js",
-    "main.js.map": "/static/js/main.6208b5c1.chunk.js.map",
+    "main.js": "/static/js/main.3b78d408.chunk.js",
+    "main.js.map": "/static/js/main.3b78d408.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.853ba1bc.chunk.css": "/static/css/2.853ba1bc.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/Posonanimation.a4a76bce.jpg": "/static/media/Posonanimation.a4a76bce.jpg",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
-    "static/media/about-page-imgi2.a04b24ef.png": "/static/media/about-page-imgi2.a04b24ef.png",
+    "static/media/about-page-imgi4.01b8efce.png": "/static/media/about-page-imgi4.01b8efce.png",
     "static/media/about-sec-imgi.663e5c32.png": "/static/media/about-sec-imgi.663e5c32.png",
     "static/media/ansathu.0b7b3866.jpg": "/static/media/ansathu.0b7b3866.jpg",
     "static/media/apepansala.2e1cc14d.jpg": "/static/media/apepansala.2e1cc14d.jpg",
@@ -28,7 +28,7 @@
     "static/media/delight8.b4560e99.jpg": "/static/media/delight8.b4560e99.jpg",
     "static/media/ecomAppUi.37cd7e72.jpg": "/static/media/ecomAppUi.37cd7e72.jpg",
     "static/media/halloween.fcbb9fbf.jpg": "/static/media/halloween.fcbb9fbf.jpg",
-    "static/media/heroi.69c518f3.png": "/static/media/heroi.69c518f3.png",
+    "static/media/heroiii.3ee6230e.png": "/static/media/heroiii.3ee6230e.png",
     "static/media/issaraadare.3b2eff13.jpg": "/static/media/issaraadare.3b2eff13.jpg",
     "static/media/lioclubvid.13e45ade.jpg": "/static/media/lioclubvid.13e45ade.jpg",
     "static/media/logo1.ff82ab7e.png": "/static/media/logo1.ff82ab7e.png",
@@ -54,6 +54,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.853ba1bc.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.6208b5c1.chunk.js"
+    "static/js/main.3b78d408.chunk.js"
   ]
 }

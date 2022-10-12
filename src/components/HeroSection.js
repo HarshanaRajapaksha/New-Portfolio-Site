@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import HeroImg from '../assets/images/heroi.png';
+import HeroImg from '../assets/images/heroiii.png';
 import Button from './Button';
 import PText from './PText';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
@@ -168,8 +168,9 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              I am working as a freelance Creative Designer and Editor for about
-              5 years. I love to design and make creative things for the people
+              I am working as a freelance Digital Content Creator and Editor for
+              about 5 years. I love to design and make creative things for the
+              people
             </PText>
             <Button btnLink="/project" btnText="see my works" />
           </div>

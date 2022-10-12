@@ -43,7 +43,9 @@ export default function ServicesSection() {
           <BrandsSectionItem
             logo={logo2}
             title="Sihakuru"
-            desc="Logo designing is mainly done here. We always strive to create a unique design for the client's brand. So far 20+ logos have been completed."
+            // desc="Logo designing is mainly done here. We always strive to create a unique design for the client's brand. So far 20+ logos have been completed."
+            desc="𝗟𝗼𝗴𝗼 is the Bridge to connect your Audience or Customers. So, We make a Strong Bridge for your Brand. We always strive to create a unique design for the client's brand.
+            So far 50+ logos have been completed."
             link="https://www.facebook.com/Sihakuru"
           />
         </div>

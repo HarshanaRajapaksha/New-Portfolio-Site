@@ -81,10 +81,17 @@ export default function AboutSection() {
             heading="About me"
           />
           <PText>
-            I am a freelance Creative designer and developer. I create
+            I am currently a 3rd year student at the Sri Lanka Institute of
+            Information Technology (SLIIT) pursuing an Interactive Media
+            undergraduate degree. I am good at Graphic Designing, Video Editing,
+            UI/UX Designing & Motion Graphics. I am well aware in social media
+            handling. I am always energetic and eager to try new things related
+            to this field. Over the years I have taken my hobby to a
+            professional level.
+            {/* I am a freelance Creative designer and developer. I create
             professional designs like Flyers, leaflets, exhibition graphics,
             brochures, product catalogues. I love to design and always try to
-            show unique views to the audience through my design.
+            show unique views to the audience through my design. */}
           </PText>
           <div className="aboutSection__buttons">
             <Button btnLink="/project" btnText="Works" />
