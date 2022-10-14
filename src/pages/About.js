@@ -99,7 +99,7 @@ export default function About() {
               Hi, I am <span>Harshana Rajapaksha</span>
             </p>
             <h2 className="about__heading">
-              A freelance Digital Content Creator
+              A Freelance Digital Content Creator
             </h2>
             <div className="about__info">
               <PText>

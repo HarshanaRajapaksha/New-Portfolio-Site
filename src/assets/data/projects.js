@@ -22,8 +22,17 @@ import motiongraphic from '../images/motiongraphic.jpg';
 import Posonanimation from '../images/Posonanimation.jpg';
 import Manipulation from '../images/Manipulation.jpg';
 import apepansala from '../images/apepansala.jpg';
+import tropicalvibes from '../images/tropicalvibes.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Flyer Design - Tropical Vibes',
+    desc: 'This is designed for a Yacht party named as Tropical vibes. I used Illustrator & Photoshop for design this flyer.',
+    img: tropicalvibes,
+    link: 'https://m.facebook.com/story.php?story_fbid=pfbid02F17mPB24Do4FpLXxYTuAcB4sbBPGyBwQYHahmuEDpSXTQGrH6wTrqvs8PZLXVaDpl&id=100044650628076',
+  },
+
   {
     id: uuidv4(),
     name: 'Poson 2D Animation',

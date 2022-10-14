@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.3b78d408.chunk.js",
-    "main.js.map": "/static/js/main.3b78d408.chunk.js.map",
+    "main.js": "/static/js/main.5f451744.chunk.js",
+    "main.js.map": "/static/js/main.5f451744.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb7fa0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb7fa0a0.js.map",
     "static/css/2.853ba1bc.chunk.css": "/static/css/2.853ba1bc.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/Posonanimation.a4a76bce.jpg": "/static/media/Posonanimation.a4a76bce.jpg",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
-    "static/media/about-page-imgi4.01b8efce.png": "/static/media/about-page-imgi4.01b8efce.png",
+    "static/media/about-page-imgi4.cf0140e9.png": "/static/media/about-page-imgi4.cf0140e9.png",
     "static/media/about-sec-imgi.663e5c32.png": "/static/media/about-sec-imgi.663e5c32.png",
     "static/media/ansathu.0b7b3866.jpg": "/static/media/ansathu.0b7b3866.jpg",
     "static/media/apepansala.2e1cc14d.jpg": "/static/media/apepansala.2e1cc14d.jpg",
@@ -28,7 +28,7 @@
     "static/media/delight8.b4560e99.jpg": "/static/media/delight8.b4560e99.jpg",
     "static/media/ecomAppUi.37cd7e72.jpg": "/static/media/ecomAppUi.37cd7e72.jpg",
     "static/media/halloween.fcbb9fbf.jpg": "/static/media/halloween.fcbb9fbf.jpg",
-    "static/media/heroiii.3ee6230e.png": "/static/media/heroiii.3ee6230e.png",
+    "static/media/heroiii.4c22ae1a.png": "/static/media/heroiii.4c22ae1a.png",
     "static/media/issaraadare.3b2eff13.jpg": "/static/media/issaraadare.3b2eff13.jpg",
     "static/media/lioclubvid.13e45ade.jpg": "/static/media/lioclubvid.13e45ade.jpg",
     "static/media/logo1.ff82ab7e.png": "/static/media/logo1.ff82ab7e.png",
@@ -46,6 +46,7 @@
     "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
     "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
     "static/media/travelnet.5405c14c.jpg": "/static/media/travelnet.5405c14c.jpg",
+    "static/media/tropicalvibes.e44d8dd5.jpg": "/static/media/tropicalvibes.e44d8dd5.jpg",
     "static/media/universityEvent.6bb9547a.jpg": "/static/media/universityEvent.6bb9547a.jpg",
     "static/media/utrackeri.5acc736a.jpg": "/static/media/utrackeri.5acc736a.jpg",
     "static/media/vstoreapp.f20b8b2c.jpg": "/static/media/vstoreapp.f20b8b2c.jpg"
@@ -54,6 +55,6 @@
     "static/js/runtime-main.fb7fa0a0.js",
     "static/css/2.853ba1bc.chunk.css",
     "static/js/2.e1d289d3.chunk.js",
-    "static/js/main.3b78d408.chunk.js"
+    "static/js/main.5f451744.chunk.js"
   ]
 }
