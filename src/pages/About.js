@@ -139,6 +139,14 @@ export default function About() {
         </div>
         <div className="about__info__items">
           <div className="about__info__item">
+            <h1 className="about__info__heading">WORK Experience</h1>
+            <AboutInfoItem
+              title="Intern Digital Content Creator"
+              items={['Dialog Axiata PLC']}
+            />
+          </div>
+
+          <div className="about__info__item">
             <h1 className="about__info__heading">Education</h1>
             <AboutInfoItem
               title="School"
@@ -155,6 +163,7 @@ export default function About() {
               ]}
             />
           </div>
+
           <div className="about__info__item">
             <h1 className="about__info__heading">My Skills</h1>
             <AboutInfoItem

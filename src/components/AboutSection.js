@@ -81,7 +81,7 @@ export default function AboutSection() {
             heading="About me"
           />
           <PText>
-            I am currently a 3rd year student at the Sri Lanka Institute of
+            I am currently a Final year student at the Sri Lanka Institute of
             Information Technology (SLIIT) pursuing an Interactive Media
             undergraduate degree. I am good at Graphic Designing, Video Editing,
             UI/UX Designing & Motion Graphics. I am well aware in social media

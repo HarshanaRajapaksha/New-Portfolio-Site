@@ -23,8 +23,62 @@ import Posonanimation from '../images/Posonanimation.jpg';
 import Manipulation from '../images/Manipulation.jpg';
 import apepansala from '../images/apepansala.jpg';
 import tropicalvibes from '../images/tropicalvibes.jpg';
+import DigitalArtContest from '../images/DigitalArtContest.jpg';
+import IntroToMetaverse from '../images/IntroToMetaverse.jpg';
+import ComputerVission from '../images/ComputerVission.jpg';
+import EngFassion from '../images/EngFassion.jpg';
+import HeyleySolar from '../images/HeyleySolar.jpg';
+import MachinLearningCareer from '../images/MachinLearningCareer.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Newspaper Advertisement - Company Project',
+    desc: 'I designed this Advertisement for a newspaper campaign. It has posted in 50+ English and Sinhala Newspapers. I used Illustrator & Photoshop for design this flyer.',
+    img: ComputerVission,
+    link: 'https://www.behance.net/gallery/162314579/Newspaper-Advertisement',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Webinar Poster - Company Project',
+    desc: 'I designed this Webinar poster for a session called "Behind the Scenes of Engineered Fashion". It has uploaded in Dialog Innovation foundry facebook page. I used Illustrator & Photoshop for design this flyer.',
+    img: EngFassion,
+    link: 'https://www.facebook.com/innovationfoundrylk/photos/a.124540949900378/228846709469801/',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Webinar Poster - Company Project',
+    desc: 'I designed this Poster for a session called Introduction to metaverse. It has uploaded in Dialog Innovation foundry facebook page. I used Illustrator & Photoshop for design this flyer.',
+    img: IntroToMetaverse,
+    link: 'https://www.facebook.com/innovationfoundrylk/photos/a.124540949900378/230183142669491/',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Flyer Design - Company Project',
+    desc: 'This flyer designed for a Digital Art Contest at Dialog Axiata with Divinci. I used Illustrator & Photoshop for design this flyer.',
+    img: DigitalArtContest,
+    link: 'https://www.facebook.com/dialog.lk/photos/a.228470516202/10160308045761203',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Flyer Design - Company Project',
+    desc: 'I designed this flyer for a session plan. I used Illustrator & Photoshop for design this flyer.',
+    img: HeyleySolar,
+    link: 'https://www.behance.net/gallery/162315669/Flyer-Design',
+  },
+
+  {
+    id: uuidv4(),
+    name: 'Webinar Poster - Company Project',
+    desc: 'I designed this Poster for a session called Machine Learning. It has uploaded in Dialog Innovation foundry facebook page. I used Illustrator & Photoshop for design this flyer.',
+    img: MachinLearningCareer,
+    link: 'https://www.facebook.com/innovationfoundrylk/photos/a.124540949900378/214569494230856/',
+  },
+
   {
     id: uuidv4(),
     name: 'Flyer Design - Tropical Vibes',

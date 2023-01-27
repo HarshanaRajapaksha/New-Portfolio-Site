@@ -140,7 +140,9 @@ export default function Footer() {
       </div>
       <div className="copyright">
         <div className="container">
-          <PText>©2021 - Harshana Rajapaksha | Designed By HaRuu</PText>
+          <PText>
+            ©2023 - Harshana Rajapaksha | Designed By Harshana Rajapaksha
+          </PText>
         </div>
       </div>
     </FooterStyles>
